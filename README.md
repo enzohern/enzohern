@@ -14,8 +14,8 @@
 
 
 ### 👨🏻‍💻 &nbsp; Projects
-[Eurozone](https://eurozone-2015-2023.streamlit.app/)
-[Energy and CO2](https://github.com/enzohern/Energy-and-CO2-France/blob/main/POWER_BI.png)
+- [Eurozone](https://eurozone-2015-2023.streamlit.app/)
+- [Energy and CO2](https://github.com/enzohern/Energy-and-CO2-France/blob/main/POWER_BI.png)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
