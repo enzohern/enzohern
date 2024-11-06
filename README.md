@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I engage in sports activities and traveling.\
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can email me at enzocordovez@gmail.com. I will try to respond as soon as possible.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/scl/fi/0dia387tp9re92mg3f457/Enzo-Hernandez.pdf?rlkey=pnej9hrpkdsdv3cli14loihlu&st=dw97ovph&dl=0) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/scl/fi/i07ft15exluuxrbp09l21/Enzo-Hernandez.pdf?rlkey=ld5amhhubne93pk92azguhhqi&st=cokk0wm4&dl=0) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 👨🏻‍💻 &nbsp; Projects
