@@ -19,13 +19,13 @@
     <thead>
       <tr style="background: linear-gradient(135deg, #1a1a1a 0%, #323232 100%);">
         <th style="padding: 16px; color: #fff; text-align: left; border-radius: 8px 0 0 8px; font-size: 16px;">
-          📂 Project
+          📂 Proyecto
         </th>
         <th style="padding: 16px; color: #fff; text-align: left; font-size: 16px;">
-          📝 Description
+          📝 Descripción
         </th>
         <th style="padding: 16px; color: #fff; text-align: left; border-radius: 0 8px 8px 0; font-size: 16px;">
-          🛠️ Technology
+          🛠️ Tecnologías
         </th>
       </tr>
     </thead>
@@ -62,18 +62,13 @@
       <!-- Proyecto 3 -->
       <tr style="background: #ffffff; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); transition: transform 0.2s;">
         <td style="padding: 16px; border-radius: 8px 0 0 8px; border-left: 4px solid #e74c3c;">
-          <strong>Energy and CO2</strong>
+          <strong>Task Manager</strong>
         </td>
         <td style="padding: 16px;">
           Aplicación de gestión de tareas con funcionalidades de CRUD y autenticación
         </td>
         <td style="padding: 16px; border-radius: 0 8px 8px 0;">
-          <a href="https://raw.githubusercontent.com/enzohern/Energy-and-CO2-France/refs/heads/main/Energy.py" target="_blank">
-    <span style="background: #f3e5f5; color: #7b1fa2; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">
-        Python
-    </span>
-</a>
-
+          <span style="background: #f3e5f5; color: #7b1fa2; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">Python</span>
           <span style="background: #e3f2fd; color: #1565c0; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">Django</span>
           <span style="background: #fff3e0; color: #ef6c00; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">PostgreSQL</span>
         </td>
