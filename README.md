@@ -22,7 +22,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Portfolio Personal</strong></td>
+      <td>
+        <a href="https://github.com/enzohern/Eurozone/blob/main/README.md"<strong>Portfolio Personal</strong></a>
+      </td>
       <td>Sitio web personal que muestra mis proyectos y habilidades como desarrollador</td>
       <td>
         <a href="https://reactjs.org/">React</a>, 
