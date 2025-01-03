@@ -12,6 +12,8 @@
 ✉️ &nbsp;You can email me at enzocordovez@gmail.com. I will try to respond as soon as possible.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/scl/fi/453gb0c1fz7utt3e576ov/Enzo-Hernandez.pdf?rlkey=0jh35mzkpkhf5u4gsc3edsizw&st=bbvq4pob&dl=0) for more details about me. I'm open to feedback and suggestions!
 
+### 👨🏻‍💻 &nbsp; Projects
+
 <table>
   <thead>
     <tr>
@@ -56,13 +58,9 @@
   </tbody>
 </table>
 
-
-
-### 👨🏻‍💻 &nbsp; Projects
-- [Eurozone](https://eurozone-2015-2023.streamlit.app/)
-- [Energy and CO2](https://github.com/enzohern/Energy-and-CO2-France/blob/main/POWER_BI.png)
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
