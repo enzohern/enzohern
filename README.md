@@ -12,70 +12,50 @@
 ✉️ &nbsp;You can email me at enzocordovez@gmail.com. I will try to respond as soon as possible.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.dropbox.com/scl/fi/453gb0c1fz7utt3e576ov/Enzo-Hernandez.pdf?rlkey=0jh35mzkpkhf5u4gsc3edsizw&st=bbvq4pob&dl=0) for more details about me. I'm open to feedback and suggestions!
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
-  <!-- Contenedor principal -->
-  <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px; margin: 20px 0;">
-    <!-- Encabezado -->
-    <thead>
-      <tr style="background: linear-gradient(135deg, #1a1a1a 0%, #323232 100%);">
-        <th style="padding: 16px; color: #fff; text-align: left; border-radius: 8px 0 0 8px; font-size: 16px;">
-          📂 Proyecto
-        </th>
-        <th style="padding: 16px; color: #fff; text-align: left; font-size: 16px;">
-          📝 Descripción
-        </th>
-        <th style="padding: 16px; color: #fff; text-align: left; border-radius: 0 8px 8px 0; font-size: 16px;">
-          🛠️ Tecnologías
-        </th>
-      </tr>
-    </thead>
-    <!-- Cuerpo de la tabla -->
-    <tbody>
-      <!-- Proyecto 1 -->
-      <tr style="background: #ffffff; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); transition: transform 0.2s;">
-        <td style="padding: 16px; border-radius: 8px 0 0 8px; border-left: 4px solid #3498db;">
-          <strong>Portfolio Personal</strong>
-        </td>
-        <td style="padding: 16px;">
-          Sitio web personal que muestra mis proyectos y habilidades como desarrollador
-        </td>
-        <td style="padding: 16px; border-radius: 0 8px 8px 0;">
-          <span style="background: #e3f2fd; color: #1565c0; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">React</span>
-          <span style="background: #f3e5f5; color: #7b1fa2; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">CSS3</span>
-          <span style="background: #fff3e0; color: #ef6c00; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">JavaScript</span>
-        </td>
-      </tr>
-      <!-- Proyecto 2 -->
-      <tr style="background: #ffffff; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); transition: transform 0.2s;">
-        <td style="padding: 16px; border-radius: 8px 0 0 8px; border-left: 4px solid #2ecc71;">
-          <strong>E-commerce App</strong>
-        </td>
-        <td style="padding: 16px;">
-          Aplicación de comercio electrónico con carrito de compras y pasarela de pago
-        </td>
-        <td style="padding: 16px; border-radius: 0 8px 8px 0;">
-          <span style="background: #e8f5e9; color: #2e7d32; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">Node.js</span>
-          <span style="background: #ede7f6; color: #4527a0; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">MongoDB</span>
-          <span style="background: #ffebee; color: #c62828; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">Express</span>
-        </td>
-      </tr>
-      <!-- Proyecto 3 -->
-      <tr style="background: #ffffff; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); transition: transform 0.2s;">
-        <td style="padding: 16px; border-radius: 8px 0 0 8px; border-left: 4px solid #e74c3c;">
-          <strong>Task Manager</strong>
-        </td>
-        <td style="padding: 16px;">
-          Aplicación de gestión de tareas con funcionalidades de CRUD y autenticación
-        </td>
-        <td style="padding: 16px; border-radius: 0 8px 8px 0;">
-          <span style="background: #f3e5f5; color: #7b1fa2; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">Python</span>
-          <span style="background: #e3f2fd; color: #1565c0; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">Django</span>
-          <span style="background: #fff3e0; color: #ef6c00; padding: 5px 10px; border-radius: 15px; font-size: 12px; margin: 0 5px;">PostgreSQL</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>📂 Project</th>
+      <th>📝 Description</th>
+      <th>🛠️ Technology Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Portfolio Personal</strong></td>
+      <td>Sitio web personal que muestra mis proyectos y habilidades como desarrollador</td>
+      <td>
+        <a href="https://reactjs.org/">React</a>, 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>, 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/enzohern/Eurozone/blob/main/README.md"><strong>Eurozone</strong></a>
+      </td>
+      <td>Aplicación de comercio electrónico con carrito de compras y pasarela de pago</td>
+      <td>
+        <a href="https://github.com/enzohern/Eurozone/blob/main/app.py">Python</a>, 
+        <a href="https://eurozone-2015-2023.streamlit.app/">Streamlit</a>, 
+        <a href="https://expressjs.com/">Express</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/enzohern/Energy-and-CO2-France/blob/main/readme.md"><strong>Energy and CO2</strong></a>
+      </td>
+      <td>Aplicación de gestión de tareas con funcionalidades de CRUD y autenticación</td>
+      <td>
+        <a href="https://github.com/enzohern/Energy-and-CO2-France/blob/main/Energy.py">Python</a>, 
+        <a href="https://github.com/enzohern/Energy-and-CO2-France/blob/main/POWER_BI.png">Power BI</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ### 👨🏻‍💻 &nbsp; Projects
 - [Eurozone](https://eurozone-2015-2023.streamlit.app/)
 - [Energy and CO2](https://github.com/enzohern/Energy-and-CO2-France/blob/main/POWER_BI.png)
