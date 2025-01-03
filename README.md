@@ -102,10 +102,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Technology-0d1117?style=for-the-badge&logo=python&logoColor=4caf50">
   <img src="https://img.shields.io/badge/-Sustainability-0d1117?style=for-the-badge&logo=leaf&logoColor=4caf50">
-  <img src="https://img.shields.io/badge/-Environment-0d1117?style=for-the-badge&logo=planet&logoColor=8bc34a">
 </p>
 
----
 
 ### 🌱 **"Code for a Greener Planet"**
 
@@ -115,6 +113,23 @@
 
 <p align="center">
   Let's build technology that helps us move toward a greener and more sustainable future. Every line of code can make a difference! 🌿
+</p>
+
+### 🌱 **"Coding for a Sustainable Future"**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzohern&theme=radical&ring=4caf50&fire=8bc34a&sideNums=ffffff&background=0d1117&currStreakLabel=ffffff" alt="GitHub Streak Stats">
+</p>
+
+<p align="center" style="font-size: 18px; color: #8bc34a;">
+  Together, we can harness technology to create a greener planet. <br>
+  <strong>Every commit plants a seed for change. 🌍💻</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Innovate-0d1117?style=for-the-badge&logo=python&logoColor=4caf50">
+  <img src="https://img.shields.io/badge/-Sustainability-0d1117?style=for-the-badge&logo=leaf&logoColor=8bc34a">
+  <img src="https://img.shields.io/badge/-Impact-0d1117?style=for-the-badge&logo=globe&logoColor=4caf50">
 </p>
 
 
