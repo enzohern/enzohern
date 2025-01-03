@@ -104,17 +104,6 @@
   <img src="https://img.shields.io/badge/-Sustainability-0d1117?style=for-the-badge&logo=leaf&logoColor=4caf50">
 </p>
 
-
-### 🌱 **"Code for a Greener Planet"**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzohern&theme=radical&ring=4caf50&fire=8bc34a&sideNums=ffffff&background=0d1117&currStreakLabel=ffffff" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  Let's build technology that helps us move toward a greener and more sustainable future. Every line of code can make a difference! 🌿
-</p>
-
 ### 🌱 **"Coding for a Sustainable Future"**
 
 <p align="center">
@@ -137,14 +126,19 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:enzocordovez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitelogoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ask2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-4caf50?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:enzocordovez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8bc34a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🐍 &nbsp;That's How Commits Move...
 
 <div align="center">
   <a href="https://github.com/enzohern">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" style="background-color: #f0f4f5; border-radius: 10px; padding: 5px;"/>
+  </a>
 </div>
+
