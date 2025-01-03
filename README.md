@@ -41,8 +41,7 @@
       <td>Aplicación de comercio electrónico con carrito de compras y pasarela de pago</td>
       <td>
         <a href="https://github.com/enzohern/Eurozone/blob/main/app.py">Python</a>, 
-        <a href="https://eurozone-2015-2023.streamlit.app/">Streamlit</a>, 
-        <a href="https://expressjs.com/">Express</a>
+        <a href="https://eurozone-2015-2023.streamlit.app/">Streamlit</a>,
       </td>
     </tr>
     <tr>
