@@ -25,13 +25,15 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/enzohern/Eurozone/blob/main/README.md"<strong>Portfolio Personal</strong></a>
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/README.md"<strong>Impact ESG</strong></a>
       </td>
-      <td>Sitio web personal que muestra mis proyectos y habilidades como desarrollador</td>
+      <td>Impact ESG</td>
       <td>
-        <a href="https://reactjs.org/">React</a>, 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>, 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/Data_ESG.py">Python</a>, 
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/data_preparation.sql">SQL</a>,
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/DAX_Measures.md">DAX</a>,
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/modelisation.jpg">Modélisation</a>,
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/1.jpg">Power BI</a>
       </td>
     </tr>
     <tr>
