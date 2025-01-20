@@ -25,9 +25,9 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/README.md"<strong>Impact ESG</strong></a>
+        <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/README.md"><strong>Impact ESG</strong></a>
       </td>
-      <td>Impact ESG</td>
+      <td>Le projet Impact ESG a pour objectif d'analyser, de modéliser et de visualiser des données liées aux indicateurs environnementaux, sociaux et de gouvernance (ESG) pour les entreprises et les institutions financières</td>
       <td>
         <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/Data_ESG.py">Python</a>, 
         <a href="https://github.com/enzohern/Impact-ESG/blob/3b157ac95416884ceb39c04a7d61ad40f5d3b4cd/data_preparation.sql">SQL</a>,
@@ -40,7 +40,7 @@
       <td>
         <a href="https://github.com/enzohern/Eurozone/blob/main/README.md"><strong>Eurozone</strong></a>
       </td>
-      <td>Aplicación de comercio electrónico con carrito de compras y pasarela de pago</td>
+      <td>Analyse du comportement des pays de la zone euro</td>
       <td>
         <a href="https://github.com/enzohern/Eurozone/blob/main/app.py">Python</a>, 
         <a href="https://eurozone-2015-2023.streamlit.app/">Streamlit</a>,
@@ -50,7 +50,7 @@
       <td>
         <a href="https://github.com/enzohern/Energy-and-CO2-France/blob/main/readme.md"><strong>Energy and CO2</strong></a>
       </td>
-      <td>Aplicación de gestión de tareas con funcionalidades de CRUD y autenticación</td>
+      <td>Analyse de l'énergie et des émissions de CO2 en France</td>
       <td>
         <a href="https://github.com/enzohern/Energy-and-CO2-France/blob/main/Energy.py">Python</a>, 
         <a href="https://github.com/enzohern/Energy-and-CO2-France/blob/main/POWER_BI.png">Power BI</a>
